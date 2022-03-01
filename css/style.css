@@ -1,0 +1,19 @@
+/*create media queries for for the following breakpoints: 
+480 p
+768 px 
+1024 px*/
+@media only screen and (max-width: 1024px) {
+    header {
+      background-color: lightblue;
+    }
+  }
+  @media only screen and (max-width: 768px) {
+    header {
+      background-color: blue;
+    }
+  }
+  @media only screen and (max-width: 600px) {
+    header {
+      background-color: gray;
+    }
+  }
